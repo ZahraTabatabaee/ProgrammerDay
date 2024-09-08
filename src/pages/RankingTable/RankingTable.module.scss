@@ -1,6 +1,6 @@
 .RankingTable{
     width: 100vw;
-    height: 110vh;
+    // height: 110vh;
 
     background-image:
     linear-gradient(90deg, #000000b4 0%, #000000b4 100%),
@@ -11,6 +11,7 @@
 .body{
     height: max-content;
     padding: 5% 24%;
+    padding-bottom: 0;
     flex-grow: 0;
     display: flex;
     flex-direction: column;
